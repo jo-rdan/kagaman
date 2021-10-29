@@ -151,7 +151,7 @@ p {
   height: 100%;
   width: 100%;
   /* Change Background Color */
-  background: #fff;
+  background: #121212;
   z-index: 99999;
 }
 .preloader .loader {
@@ -791,7 +791,7 @@ p {
 .navbar-area .navbar .navbar-toggler .toggler-icon {
   width: 30px;
   height: 2px;
-  background-color: #121212;
+  background-color: #fff;
   margin: 5px 0;
   display: block;
   position: relative;
@@ -840,7 +840,7 @@ p {
     top: 108%;
     left: 0;
     width: 100%;
-    background-color: #f4f6f7;
+    background-color: #000;
     z-index: 8;
     padding: 10px 16px;
     -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -1725,7 +1725,7 @@ p {
 ===========================*/
 .about-area {
   position: relative;
-  background-color: #242121;
+  background-color: #000;
   padding-top: 100px;
   padding-bottom: 100px;
 }
